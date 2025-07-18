@@ -34,6 +34,9 @@ project/
 ├── lib/                # External libraries (e.g., JFreeChart)
 ├── bin/                # Compiled classes
 └── README.md
+└── concurrent          # report pdf
+└── cp                  # powerpoint presentation
+
 ```
 
 ## 🧪 How to Run
